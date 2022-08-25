@@ -1,0 +1,7 @@
+MIGUEL ANGEL BRAGHIROLI LEMUS
+
+-Codigo para generar Cifrado Asimetrico con JAVA
+-Generamos las llaves Publica y Privada usando un algoritmo RSA.
+-Hacemos una funcion que nos permitar encriptar texto a texto cifrado usando la llave privada.
+-Hacemos una funcion que permita devolver de texto cifrado al texto original con la llave publica.
+-Creamos una funcion Void Main para ejecutar nuestro codigo y realizar las pruebas respectivas.
